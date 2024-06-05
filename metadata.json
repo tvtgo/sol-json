@@ -1,7 +1,7 @@
 {
   "name": "PING",
   "symbol": "PING",
-  "uri": "https://your-hosted-metadata-url.json",
+  "uri": "https://raw.githubusercontent.com/tvtgo/sol-json/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": null,
   "attributes": [
