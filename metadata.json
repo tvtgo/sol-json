@@ -1,0 +1,21 @@
+{
+  "name": "PING",
+  "symbol": "PING",
+  "uri": "https://your-hosted-metadata-url.json",
+  "seller_fee_basis_points": 0,
+  "creators": null,
+  "attributes": [
+    {
+      "trait_type": "website",
+      "value": "https://google.com"
+    },
+    {
+      "trait_type": "x",
+      "value": "https://x.com/yourprofile"
+    },
+    {
+      "trait_type": "telegram",
+      "value": "https://t.me/yourchannel"
+    }
+  ]
+}
